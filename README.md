@@ -39,3 +39,5 @@ These instructions will get you on how to get the automated test script on your 
 8. Open the **helper_base.py** file in the Helper folder and replace the value of the **base_url** on line 8 with it. 
 
 9. Open the terminal and type the word **behave** and hit enter. 
+
+NB: You need Python on your local machine.
