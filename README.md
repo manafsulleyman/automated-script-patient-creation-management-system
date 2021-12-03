@@ -3,7 +3,9 @@
 
 # Installation
 
-You have to clone the repo contain the application under test and automated test script. 
+To run the automated script, you first have to get the application running locally. Follow the **Appliccation installation** below to run Application locally.
+
+Once you have the Application running, follow the Automated test script repo instruction to get the script running. 
 
 # Application installation
 These instructions will get you a copy of the project up and running on your local machine.
@@ -12,7 +14,7 @@ The first step to running this repo locally is downloading the code by cloning t
 
 1. Clone the app repo git clone https://github.com/mPharma/qa-take-home-test.git
 
-2. After cloning, cd qa-take-home-test
+2. After cloning, cd qa-take-home-test if you are not in the folder already.
 3. npm install
 4. npm start
 
