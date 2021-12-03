@@ -1,4 +1,3 @@
-# mPharmaTest
  
 # mPharma-Patient-management-system
 
