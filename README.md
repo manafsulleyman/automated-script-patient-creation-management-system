@@ -27,9 +27,10 @@ These instructions will get you on how to get the automated test script on your 
 2. After cloning, cd mPharmaTest
 
 3. You need to install the following packages using the commands below
-4.      pip install webdriver-manager
-5.      pip install xlrd
-6.      pip install behave
+4.      pip install selenium
+5.      pip install webdriver-manager
+6.      pip install xlrd
+7.      pip install behave
 
 7. Copy the **Url** from the **qa-take-home-test Application** running on your localhost. eg:localhost:3000/
 
