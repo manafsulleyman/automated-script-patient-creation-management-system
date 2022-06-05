@@ -1,7 +1,7 @@
  
 # mPharma-Patient-management-system
 
-# Installation
+# Installation....
 
 To run the automated script, you first have to get the application running locally. Follow the **Appliccation installation** below to run Application locally.
 
