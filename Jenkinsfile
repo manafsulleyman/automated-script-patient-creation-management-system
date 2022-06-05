@@ -1,9 +1,5 @@
 pipeline {
-    agent {
-          docker {
-               image 'qnib/pytest'
-          }
-     }
+    agent any
      steps {
           sh 'virtualenv venv && . venv/bin/activate && pip install -r requirements.txt && python tests.py'
      }
